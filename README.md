@@ -5,6 +5,6 @@ The automation of the canteen will be in the form of a Web Application which wil
 
 This system will give the client side users (students and staff) the flexibility of ordering online in real time reducing the time-consuming queues. Due to real time communication between the cashier and the client the transaction will be faster and more optimized at the same time. On the other side the canteen staff will have more organized work-flow and better management in taking, delivering  orders and also managing their inner organization. 
 
-This application will be an extension of the existing Epoka University Web Application in order for accounts of the students to be safer and also easier for them to adopt with.
+This application will be an extension of the existing Epoka University Web Application in order for accounts of the students to be safer and also easier for them to adapt with.
 
 
